@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<translations>
+    <translations>
+        <fromLang>Romana</fromLang>
+        <toLang>Engleza</toLang>
+        <fromWord>Caine</fromWord>
+        <toWord>Dog</toWord>
+    </translations>
+    <translations>
+        <fromLang>Romana</fromLang>
+        <toLang>Engleza</toLang>
+        <fromWord>Pisica</fromWord>
+        <toWord>Cat</toWord>
+    </translations>
+    <translations>
+        <fromLang>Romana</fromLang>
+        <toLang>Engleza</toLang>
+        <fromWord>Zapada</fromWord>
+        <toWord>Snow</toWord>
+    </translations>
+    <translations>
+        <fromLang>Romana</fromLang>
+        <toLang>Engleza</toLang>
+        <fromWord>Ion</fromWord>
+        <toWord>John</toWord>
+    </translations>
+    <translations>
+        <fromLang>Romana</fromLang>
+        <toLang>Engleza</toLang>
+        <fromWord>Carte</fromWord>
+        <toWord>Book</toWord>
+    </translations>
+    <translations>
+        <fromLang>Romana</fromLang>
+        <toLang>Engleza</toLang>
+        <fromWord>Carnat</fromWord>
+        <toWord>Sausage</toWord>
+    </translations>
+</translations>
